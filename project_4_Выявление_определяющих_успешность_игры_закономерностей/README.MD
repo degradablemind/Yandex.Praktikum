@@ -72,12 +72,12 @@
 
 **Используемый стэк**:
 
-- jupiter
-- pandas
-- matplotlib
-- matplotlib.colors
-- seaborn
-- joypy
-- numpy
-- scipy
-- scikit-learn
+- `jupiter`
+- `pandas`
+- `matplotlib`
+    - `matplotlib.colors`
+- `seaborn`
+- `joypy`
+- `numpy`
+- `scipy`
+- `scikit-learn`
