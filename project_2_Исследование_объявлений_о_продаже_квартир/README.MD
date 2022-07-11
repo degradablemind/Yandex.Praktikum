@@ -45,8 +45,8 @@
 - корреляция стоимости квартиры в зависисомти от количества комнат не выявлено
 
 **Используемый стэк**:
-- jupiter
-- pandas
-- matplotlib
-- seaborn
-- numpy
+- `jupiter`
+- `pandas`
+- `matplotlib`
+- `seaborn`
+- `numpy`
