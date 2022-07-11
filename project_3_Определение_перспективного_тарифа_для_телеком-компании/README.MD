@@ -41,9 +41,9 @@
 
 **Используемый стэк**:
 
-- jupiter
-- pandas
-- matplotlib
-- seaborn
-- numpy
-- scipy
+- `jupiter`
+- `pandas`
+- `matplotlib`
+- `seaborn`
+- `numpy`
+- `scipy`
