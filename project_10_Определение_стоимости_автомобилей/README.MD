@@ -37,6 +37,5 @@ RMSE = 2368.22, время обучения	- 2370 с, скорость пред
 - `lightgbm` (`LGBMRegressor`)
 - `sklearn`:
   - `sklearn.preprocessing` (`StandardScaler`, `OrdinalEncoder`)
-  - `sklearn.tree` (`DecisionTreeClassifier`)
   - `sklearn.model_selection` (`train_test_split`, `GridSearchCV`)
   - `sklearn.metrics` (`mean_squared_error`)
